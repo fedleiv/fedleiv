@@ -1,4 +1,7 @@
 Hi! I'm a Front-End Developer focused on performance and static web development.
+
+This intro is under construction. 
+
 <!--
 This are some of my latest projects:
 
