@@ -1,6 +1,10 @@
-Hi! I'm a Front-End Developer focused on performance and static web development.
+<p align="center">
+  <img display="inline-block" height=24 src="_assets/img/html5.svg?sanitize=true">
+  <img display="inline-block" height=24 src="_assets/img/css3.svg?sanitize=true">
+  <img display="inline-block" height=24 src="_assets/img/dart.svg?sanitize=true">
+  <img display="inline-block" height=24 src="_assets/img/flutter.svg?sanitize=true">
+</p>
 
-This intro is under construction. 
 
 <!--
 This are some of my latest projects:
