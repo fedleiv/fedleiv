@@ -33,13 +33,33 @@
 <h2 align="center">LANGUAGES AND TOOLS</h2>
 
 <p align="center">
-  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html.svg?sanitize=true">
   &nbsp;
-  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/css3.svg?sanitize=true">
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/css.svg?sanitize=true">
+  &nbsp;
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/js.svg?sanitize=true">
+  &nbsp;
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/react.svg?sanitize=true">
+  &nbsp;
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/express.svg?sanitize=true">
+  &nbsp;
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/mongodb.svg?sanitize=true">
   &nbsp;
   <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/dart.svg?sanitize=true">
   &nbsp;
   <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/flutter.svg?sanitize=true">
+  &nbsp;
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/sass.svg?sanitize=true">
+  &nbsp;
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/emmet.svg?sanitize=true">
+  &nbsp;
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/git.svg?sanitize=true">
+  &nbsp;
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/github.svg?sanitize=true">
+  &nbsp;
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/netlify.svg?sanitize=true">
+  &nbsp;
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/vscode.svg?sanitize=true">
 </p>
 
 <h2 align="center">CONTACT</h2>
