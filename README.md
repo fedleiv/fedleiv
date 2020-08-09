@@ -51,8 +51,9 @@
 <h4 align="center">CONTACT</h4>
 
 <p align="center">For web development or optimization inquiries,<br>send me an email to <a href="mailto:fedleiv@gmail.com?subject=[GitHub Contact]">fedleiv@gmail.com</a>
-    <br>&nbsp;
 </p>
+
+<hr>
 
 <p align="center">
   <a href="https://example.com" title="Personal website of Federico Leiva, Developer">
