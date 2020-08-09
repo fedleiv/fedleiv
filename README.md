@@ -1,3 +1,7 @@
+This is under construction. Come back soon!
+
+<!--
+
 <p align="center">&nbsp;</p>
 
 <p align="center">
@@ -66,7 +70,7 @@
 
 <h2 align="center">CONTACT</h2>
 
-<p align="center">For web development or optimization inquiries,<br>send me an email to <a href="mailto:fedleiv@gmail.com?subject=[GitHub Contact]">fedleiv@gmail.com</a>
+<p align="center">For web development or optimization inquiries<br>send me an email to <a href="mailto:fedleiv@gmail.com?subject=[GitHub Contact]">fedleiv@gmail.com</a>
 </p>
 
 <hr>
@@ -76,3 +80,5 @@
   <img display="inline-block" height=40 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva.svg?sanitize=true">
   </a>
 </p>
+
+-->
