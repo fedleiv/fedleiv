@@ -1,1 +1,34 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><clipPath id="a"><path d="m959.4 500-279.6 279.7 279.6 279.7h-319.5l-279.7-279.7 279.7-279.7zm-319.5-479.3-519.3 519.3 159.8 159.8 679-679.1h-319.5z"/></clipPath><clipPath id="b"><path d="m959.4 500-279.6 279.7 279.6 279.7h-319.5l-279.7-279.7 279.7-279.7zm-319.5-479.3-519.3 519.3 159.8 159.8 679-679.1h-319.5z"/></clipPath><clipPath id="c"><path d="m959.4 500-279.6 279.7 279.6 279.7h-319.5l-279.7-279.7 279.7-279.7zm-319.5-479.3-519.3 519.3 159.8 159.8 679-679.1h-319.5z"/></clipPath><clipPath id="d"><path d="m959.4 500-279.6 279.7 279.6 279.7h-319.5l-279.7-279.7 279.7-279.7zm-319.5-479.3-519.3 519.3 159.8 159.8 679-679.1h-319.5z"/></clipPath><linearGradient id="e" gradientUnits="userSpaceOnUse" x1="566.635" x2="685.65" y1="970.339" y2="851.324"><stop offset="0" stop-color="#1a237e" stop-opacity=".4"/><stop offset="1" stop-color="#1a237e" stop-opacity="0"/></linearGradient><clipPath id="f"><path d="m959.4 500-279.6 279.7 279.6 279.7h-319.5l-279.7-279.7 279.7-279.7zm-319.5-479.3-519.3 519.3 159.8 159.8 679-679.1h-319.5z"/></clipPath><radialGradient id="g" cx="7824.659" cy="-2855.979" gradientTransform="matrix(.25 0 0 -.25 -1812 -622.5)" gradientUnits="userSpaceOnUse" r="5082.889"><stop offset="0" stop-color="#fff" stop-opacity=".1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient><g transform="matrix(.061615 0 0 .061615 -1.430818 -1.2754)"><g clip-path="url(#a)"><path d="m360.3 779.7 159.7 159.8 439.4-439.5h-319.5z" fill="#39cefd"/></g><path clip-path="url(#b)" d="m639.9 20.7h319.5l-679 679.1-159.8-159.8z" fill="#39cefd"/><path clip-path="url(#c)" d="m520 939.5 119.9 119.8h319.5l-279.6-279.6z" fill="#03569b"/><path clip-path="url(#d)" d="m757 857.4-77.2-77.7-159.8 159.8z" fill="url(#e)"/><g clip-path="url(#f)"><path d="m360.282 779.645 159.804-159.805 159.814 159.805-159.814 159.805z" fill="#16b9fd"/></g><path d="m959.4 500-279.6 279.7 279.6 279.7h-319.5l-279.7-279.7 279.7-279.7zm-319.5-479.3-519.3 519.3 159.8 159.8 679-679.1h-319.5z" fill="url(#g)"/></g></svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 969.06 1200">
+  <defs>
+    <clipPath id="clip-path" transform="translate(-115.47 0)">
+      <path d="M1084.53,553.73l-323,323.14,323,323.13H715.41L392.28,876.87,715.41,553.73ZM715.41,0,115.47,599.94,300.09,784.56,1084.53,0Z" style="fill: none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="10245.07" y1="-16609.11" x2="12476.61" y2="-14377.56" gradientTransform="matrix(0.06, 0, 0, -0.06, -0.49, 73.72)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2d3079" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#2d3079" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="16540.65" cy="9018.51" r="95304.91" gradientTransform="translate(-112.09 -57.13) scale(0.02)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <title>flutter</title>
+  <g>
+    <g style="clip-path: url(#clip-path)">
+      <path d="M392.39,876.87l184.5,184.61,507.64-507.75H715.41Z" transform="translate(-115.47 0)" style="fill: #4bc9f5"/>
+    </g>
+    <g style="clip-path: url(#clip-path)">
+      <path d="M715.41,0h369.12L300.09,784.56,115.47,599.94Z" transform="translate(-115.47 0)" style="fill: #4bc9f5"/>
+    </g>
+    <g style="clip-path: url(#clip-path)">
+      <path d="M576.89,1061.48l138.52,138.4h369.12l-323-323Z" transform="translate(-115.47 0)" style="fill: #03579b"/>
+    </g>
+    <g style="clip-path: url(#clip-path)">
+      <path d="M850.7,966.63l-89.19-89.76L576.89,1061.48Z" transform="translate(-115.47 0)" style="fill: url(#linear-gradient)"/>
+    </g>
+    <g style="clip-path: url(#clip-path)">
+      <path d="M392.37,876.8,577,692.18,761.63,876.8,577,1061.42Z" transform="translate(-115.47 0)" style="fill: #45b5e7"/>
+    </g>
+    <path d="M1084.53,553.73l-323,323.14,323,323.13H715.41L392.28,876.87,715.41,553.73ZM715.41,0,115.47,599.94,300.09,784.56,1084.53,0Z" transform="translate(-115.47 0)" style="fill: url(#radial-gradient)"/>
+  </g>
+</svg>
