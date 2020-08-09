@@ -21,15 +21,8 @@
 </p>
 
 <p align="center">
-  <img height=120 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-structurize.svg?sanitize=true">
+  <img height=120 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva.svg?sanitize=true">
   &nbsp;&nbsp;&nbsp;
-  <img height=120 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-fsbp.svg?sanitize=true">
-</p>
-
-<p align="center">
-  <img height=120 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-fsbp.svg?sanitize=true">
-  &nbsp;&nbsp;&nbsp;
-  <img height=120 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-structurize.svg?sanitize=true">
 </p>
 
 <h4 align="center">WRITING AND CONTENT PRODUCTION</h4>
