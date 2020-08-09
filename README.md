@@ -8,7 +8,7 @@
 <h3 align="center">Hello!<br><br>I'm a developer specialized in creating higly performant modern websites</h3>
 <hr>
 <h4 align="center">WRITING AND CONTENT PRODUCTION</h4>
-<p align="center">I write articles about web development on my personal website, publish a weekly newsletter about web technologies and post pretty code pictures on my Instagram</p>
+<p align="center">I write <a href="https://example.com">articles about web development</a> on my <a href="https://example.com">personal website</a>, publish a <a href="https://example.com">weekly newsletter about web technologies</a> and post <a href="https://example.com">pretty code pictures</a> on my Instagram</p>
 <h4 align="center">FEATURED PROJECTS</h4>
  <p align="center">
   <img height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
