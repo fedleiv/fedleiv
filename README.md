@@ -5,19 +5,27 @@
   </a>
 </p>
 <hr>
-<h3 align="center">Hello!<br><br>I'm a developer specialized in creating higly performant modern websites.</h3>
+<h3 align="center">Hello!<br><br>I'm a developer specialized in creating higly performant modern websites</h3>
 <hr>
 <h4 align="center">WRITING AND CONTENT PRODUCTION</h4>
-<p align="center">I write articles about web development on my personal website<br>publish a weekly newsletter about web technologies and<br>post pretty code pictures on my Instagram</p>
+<p align="center">I write articles about web development on my personal website, publish a weekly newsletter about web technologies and post pretty code pictures on my Instagram</p>
+<h4 align="center">FEATURED PROJECTS</h4>
+ <p align="center">
+  <img height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
+  &nbsp;&nbsp;&nbsp;
+  <img height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
+  &nbsp;&nbsp;&nbsp;
+  <img height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
+</p>
 <h4 align="center">LANGUAGES AND TOOLS</h4>
 <p align="center">
-  <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
   &nbsp;
-  <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/css3.svg?sanitize=true">
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/css3.svg?sanitize=true">
   &nbsp;
-  <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/dart.svg?sanitize=true">
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/dart.svg?sanitize=true">
   &nbsp;
-  <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/flutter.svg?sanitize=true">
+  <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/flutter.svg?sanitize=true">
 </p>
 
 
