@@ -26,7 +26,7 @@
 
 <p align="center">&nbsp;</p>
 
-<h2 align="center">WRITING AND CONTENT PRODUCTION</h2>
+<h2 align="center">WRITING AND CONTENT CREATION</h2>
 
 <p align="center">I write <a href="https://example.com">articles about web development</a> on <a href="https://example.com">my website</a>,<br>publish a <a href="https://example.com">weekly newsletter about web technologies</a><br>and post <a href="https://example.com">pretty code pictures</a> on <a href="https://example.com">my Instagram</a></p>
 
