@@ -4,6 +4,7 @@
   <img display="inline-block" height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva-complete.svg?sanitize=true">
   </a>
 </p>
+<p>&nbsp;</p>
 <p align="center">Hi! I'm a developer specialized in creating higly performant modern websites.</p>
 <p align="center">
   <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
