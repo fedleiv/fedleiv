@@ -7,8 +7,11 @@
 <p>&nbsp;</p>
 <p align="center">
   <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
+  &nbsp;
   <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/css3.svg?sanitize=true">
+  &nbsp;
   <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/dart.svg?sanitize=true">
+  &nbsp;
   <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/flutter.svg?sanitize=true">
 </p>
 
