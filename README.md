@@ -12,7 +12,7 @@
     <br>&nbsp;
 </h3>
 
-<h3 align="center">FEATURED PROJECTS</h3>
+<h2 align="center">FEATURED PROJECTS</h2>
 
 <p align="center">
   <img height=120 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-fsbp.svg?sanitize=true">
@@ -26,11 +26,11 @@
 
 <p align="center">&nbsp;</p>
 
-<h3 align="center">WRITING AND CONTENT PRODUCTION</h3>
+<h2 align="center">WRITING AND CONTENT PRODUCTION</h2>
 
 <p align="center">I write <a href="https://example.com">articles about web development</a> on <a href="https://example.com">my website</a>,<br>publish a <a href="https://example.com">weekly newsletter about web technologies</a><br>and post <a href="https://example.com">pretty code pictures</a> on <a href="https://example.com">my Instagram</a></p>
 
-<h3 align="center">LANGUAGES AND TOOLS</h3>
+<h2 align="center">LANGUAGES AND TOOLS</h2>
 
 <p align="center">
   <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
@@ -42,7 +42,7 @@
   <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/flutter.svg?sanitize=true">
 </p>
 
-<h3 align="center">CONTACT</h3>
+<h2 align="center">CONTACT</h2>
 
 <p align="center">For web development or optimization inquiries,<br>send me an email to <a href="mailto:fedleiv@gmail.com?subject=[GitHub Contact]">fedleiv@gmail.com</a>
 </p>
