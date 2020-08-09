@@ -1,0 +1,38 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200">
+  <title>logo-structurize</title>
+  <g>
+    <path d="M156.56,622.7a9.49,9.49,0,0,0-3.88-8.05q-3.87-2.88-13.62-6a136.69,136.69,0,0,1-15.94-6Q103,593.41,103,577.12a22.06,22.06,0,0,1,5-14.31q5-6.21,14.19-9.66a58.27,58.27,0,0,1,20.63-3.45,50.72,50.72,0,0,1,20,3.76,31.27,31.27,0,0,1,13.77,10.69A26.77,26.77,0,0,1,181.53,580h-24.9q0-6-3.88-9.25t-10.49-3.28q-6.69,0-10.57,2.78a8.39,8.39,0,0,0-3.87,7.07q0,3.75,4.27,6.8t15,6.3a95.4,95.4,0,0,1,17.64,7q16.78,9.12,16.79,25.13,0,12.81-10.25,20.11T143.18,650a58.7,58.7,0,0,1-22.8-4.26q-10.2-4.26-15.36-11.66A29.12,29.12,0,0,1,99.86,617h25q0,7.85,4.3,11.56t14,3.72q6.19,0,9.78-2.51A8.13,8.13,0,0,0,156.56,622.7Z" style="fill: #000"/>
+    <path d="M279,569H249v80H224V569H193V551h86Z" style="fill: #000"/>
+    <path d="M332.62,614H319v35H295V552h40.51q18.32,0,28.63,7.65t10.33,21.63q0,10.13-4.35,16.77t-13.61,10.78L378,648v1H351ZM319,596h15.86q7.15,0,10.76-3.54t3.61-9.89q0-6.35-3.65-10T334.86,569H319Z" style="fill: #000"/>
+    <path d="M474,551v63.66a35,35,0,0,1-4.87,18.74,31,31,0,0,1-14,12.06q-9.11,4.14-21.53,4.14-18.8,0-29.59-9.22t-11-25.25V551h25v64.6q.42,16,15.53,16,7.64,0,11.55-4t3.92-13V551Z" style="fill: #000"/>
+    <path d="M577.36,616a34.8,34.8,0,0,1-5.74,18.09,34.28,34.28,0,0,1-14.74,12.17,51.94,51.94,0,0,1-21.67,4.31q-20.1,0-31.66-12.6T492,602.39v-4.86q0-14.41,5.22-25.23a38.51,38.51,0,0,1,15-16.72,43.15,43.15,0,0,1,22.69-5.89q18.55,0,29.83,9.4T577.57,585H553.06c-.18-6-1.75-10.27-4.69-12.87s-7.42-3.91-13.44-3.91-10.6,2.2-13.45,6.6-4.34,11.44-4.48,21.1v6.94q0,15.71,4.1,22.44T535.21,632q8.47,0,12.95-3.84t4.76-12.2Z" style="fill: #000"/>
+    <path d="M673,569H642v80H617V569H587V551h86Z" style="fill: #000"/>
+    <path d="M769,551v63.66a35,35,0,0,1-4.87,18.74,31,31,0,0,1-14,12.06q-9.1,4.14-21.53,4.14-18.79,0-29.59-9.22t-11-25.25V551h25v64.6q.42,16,15.53,16,7.63,0,11.55-4t3.92-13V551Z" style="fill: #000"/>
+    <path d="M827.39,614H814v35H789V552h40.51q18.32,0,28.63,7.65t10.33,21.63q0,10.13-4.35,16.77t-13.61,10.78L872,648v1H845.5ZM813,596h15.86q7.15,0,10.76-3.54t3.61-9.89q0-6.35-3.65-10T828.86,569H813Z" style="fill: #000"/>
+    <path d="M914,649H889V552h25Z" style="fill: #000"/>
+    <path d="M964.26,631H1013v18H933V636.31L981.93,570H933V552h80v12Z" style="fill: #000"/>
+    <path d="M1093,608h-39v23h46v18h-71V552h71v18h-46v20h39Z" style="fill: #000"/>
+  </g>
+  <g>
+    <line x1="118" y1="400.5" x2="1081" y2="400.5" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <line x1="600.5" y1="100" x2="600.5" y2="400" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <line x1="800.5" y1="117" x2="800.5" y2="500" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <line x1="800" y1="400" x2="609.54" y2="114.31" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <path d="M789.64,125,1075,410.36V475H125V410.36L410.36,125H789.64M800,100H400L100,400V500H1100V400L800,100Z" style="fill: #000"/>
+    <line x1="600" y1="400" x2="689.25" y2="489.25" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <line x1="400.5" y1="117" x2="400.5" y2="500" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <line x1="400" y1="400" x2="590.46" y2="114.31" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <line x1="600" y1="400" x2="510.75" y2="489.25" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+  </g>
+  <g>
+    <line x1="1083" y1="800.5" x2="120" y2="800.5" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <line x1="600.5" y1="1100" x2="600.5" y2="800" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <line x1="400.5" y1="1084" x2="400.5" y2="700" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <line x1="400" y1="800" x2="590.46" y2="1085.69" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <path d="M1075,725v64.64L789.64,1075H410.36L125,789.64V725h950m25-25H100V800l300,300H800l300-300V700Z" style="fill: #000"/>
+    <line x1="600" y1="800" x2="510.75" y2="710.75" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <line x1="800.5" y1="1084" x2="800.5" y2="700" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <line x1="800" y1="800" x2="609.54" y2="1085.69" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+    <line x1="600" y1="800" x2="689.25" y2="710.75" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 25px"/>
+  </g>
+</svg>
