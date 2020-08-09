@@ -9,7 +9,7 @@
  <p align="center">
   <img height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-fsbvp.svg?sanitize=true">
   &nbsp;&nbsp;&nbsp;
-  <img height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-structurizee.svg?sanitize=true">
+  <img height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-structurizeee.svg?sanitize=true">
 </p>
 <h4 align="center">WRITING AND CONTENT PRODUCTION</h4>
 <p align="center">I write <a href="https://example.com">articles about web development</a> on my <a href="https://example.com">personal website</a>, publish a <a href="https://example.com">weekly newsletter about web technologies</a> and post <a href="https://example.com">pretty code pictures</a> on my Instagram</p>
