@@ -1,12 +1,12 @@
 <p>&nbsp;</p>
 <p align="center">
   <a href="https://example.com" title="Personal website of Federico Leiva, Developer">
-  <img display="inline-block" height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva-complete.svg?sanitize=true">
+  <img display="inline-block" height=144 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva-complete.svg?sanitize=true">
   </a>
 </p>
-<p>&nbsp;</p>
+<hr>
 <h3 align="center">Hello!<br><br>I'm a developer specialized in creating higly performant modern websites.</h3>
-<p>&nbsp;</p>
+<hr>
 <h4 align="center">WRITING AND CONTENT PRODUCTION</h4>
 <p align="center">I write articles about web development on my personal website<br>publish a weekly newsletter about web technologies and<br>post pretty code pictures on my Instagram</p>
 <h4 align="center">LANGUAGES AND TOOLS</h4>
