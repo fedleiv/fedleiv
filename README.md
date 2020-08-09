@@ -34,8 +34,12 @@
   <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/flutter.svg?sanitize=true">
 </p>
 <h4 align="center">CONTACT</h4>
-<p align="center">Send me an email to <a href="mailto:fedleiv@gmail.com?subject=[GitHub Contact]">fedleiv@gmail.com</a></p>
-
+<p align="center">Send me an email to <a href="mailto:fedleiv@gmail.com?subject=[GitHub Contact]">fedleiv@gmail.com</a><br>&nbsp;</p>
+<p align="center">
+  <a href="https://example.com" title="Personal website of Federico Leiva, Developer">
+  <img display="inline-block" height=40 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva.svg?sanitize=true">
+  </a>
+</p>
 
 
 
