@@ -1,5 +1,7 @@
 <p align="center">
+  <a target="_blank" rel="noreferrer noopener" href="https://federicoleiva.me">
   <img display="inline-block" height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva-complete.svg?sanitize=true">
+  </a>
 </p>
 
 <hr>
