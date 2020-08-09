@@ -1,3 +1,4 @@
+<p>&nbsp;</p>
 <p align="center">
   <a href="https://example.com" title="Personal website of Federico Leiva, Developer">
   <img display="inline-block" height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva-complete.svg?sanitize=true">
