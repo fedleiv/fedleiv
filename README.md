@@ -1,15 +1,15 @@
 <p>&nbsp;</p>
 <p align="center">
   <a href="https://example.com" title="Personal website of Federico Leiva, Developer">
-  <img display="inline-block" height=144 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva-complete.svg?sanitize=true"><br>&nbsp;
+  <img display="inline-block" height=160 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva-complete.svg?sanitize=true"><br>&nbsp;
   </a>
 </p>
 <h3 align="center">Hello! I'm a developer specialized in creating extremely fast modern web projects<br>&nbsp;</h3>
 <h4 align="center">FEATURED PROJECTS</h4>
  <p align="center">
-  <img height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-fsbvp.svg?sanitize=true">
+  <img height=120 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-fsbvp.svg?sanitize=true">
   &nbsp;&nbsp;&nbsp;
-  <img height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-structurizeee.svg?sanitize=true">
+  <img height=120 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-structurizeee.svg?sanitize=true">
 </p>
 <h4 align="center">WRITING AND CONTENT PRODUCTION</h4>
 <p align="center">I write <a href="https://example.com">articles about web development</a> on my <a href="https://example.com">personal website</a>, publish a <a href="https://example.com">weekly newsletter about web technologies</a> and post <a href="https://example.com">pretty code pictures</a> on my Instagram</p>
