@@ -4,9 +4,9 @@
   <img display="inline-block" height=144 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva-complete.svg?sanitize=true">
   </a>
 </p>
-<hr>
+
 <h3 align="center">Hello!<br><br>I'm a developer specialized in creating higly performant modern websites</h3>
-<hr>
+
 <h4 align="center">FEATURED PROJECTS</h4>
  <p align="center">
   <img height=72 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
