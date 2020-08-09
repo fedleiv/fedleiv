@@ -1,8 +1,13 @@
 <p align="center">
-  <img display="inline-block" height=24 src="_assets/img/html5.svg?sanitize=true">
-  <img display="inline-block" height=24 src="_assets/img/css3.svg?sanitize=true">
-  <img display="inline-block" height=24 src="_assets/img/dart.svg?sanitize=true">
-  <img display="inline-block" height=24 src="_assets/img/flutter.svg?sanitize=true">
+  <img display="inline-block" height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva.svg?sanitize=true">
+</p>
+
+
+<p align="center">
+  <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
+  <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/css3.svg?sanitize=true">
+  <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/dart.svg?sanitize=true">
+  <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/flutter.svg?sanitize=true">
 </p>
 
 
