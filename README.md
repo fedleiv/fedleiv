@@ -9,7 +9,7 @@
  <p align="center">
   <img height=72 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
   &nbsp;&nbsp;&nbsp;
-  <img height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-fsbp.svg?sanitize=true">
+  <img height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-fsbvp.svg?sanitize=true">
   &nbsp;&nbsp;&nbsp;
   <img height=72 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
 </p>
