@@ -4,9 +4,9 @@
   <img display="inline-block" height=144 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva-complete.svg?sanitize=true">
   </a>
 </p>
-
+<p>&nbsp;</p>
 <h3 align="center">Hello!<br><br>I'm a developer specialized in creating higly performant modern websites</h3>
-
+<p>&nbsp;</p>
 <h4 align="center">FEATURED PROJECTS</h4>
  <p align="center">
   <img height=72 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
@@ -15,8 +15,10 @@
   &nbsp;&nbsp;&nbsp;
   <img height=72 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
 </p>
+<p>&nbsp;</p>
 <h4 align="center">WRITING AND CONTENT PRODUCTION</h4>
 <p align="center">I write <a href="https://example.com">articles about web development</a> on my <a href="https://example.com">personal website</a>, publish a <a href="https://example.com">weekly newsletter about web technologies</a> and post <a href="https://example.com">pretty code pictures</a> on my Instagram</p>
+<p>&nbsp;</p>
 <h4 align="center">LANGUAGES AND TOOLS</h4>
 <p align="center">
   <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
@@ -27,6 +29,7 @@
   &nbsp;
   <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/flutter.svg?sanitize=true">
 </p>
+<p>&nbsp;</p>
 <h4 align="center">CONTACT</h4>
 <p align="center">Send me an email to <a href="mailto:fedleiv@gmail.com?subject=[GitHub Contact]">fedleiv@gmail.com</a></p>
 
