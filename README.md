@@ -1,7 +1,8 @@
 <p align="center">
-  <img display="inline-block" height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva.svg?sanitize=true">
+  <img display="inline-block" height=96 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva-complete.svg?sanitize=true">
 </p>
 
+<hr>
 
 <p align="center">
   <img display="inline-block" height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/html5.svg?sanitize=true">
