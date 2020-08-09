@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img height=120 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva-complete.svg?sanitize=true">
+  <img height=120 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva.svg?sanitize=true">
 </p>
 
 <p align="center">&nbsp;</p>
