@@ -1,12 +1,8 @@
-This is under construction. Come back soon!
-
-<!--
-
 <p align="center">&nbsp;</p>
 
 <p align="center">
-  <a href="https://example.com" title="Personal website of Federico Leiva, Developer">
-  <img display="inline-block" height=160 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva-complete.svg?sanitize=true">
+  <a href="#" title="Personal website of Federico Leiva, Developer">
+  <img height=160 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva-complete.svg?sanitize=true">
   <br>&nbsp;
   </a>
 </p>
@@ -15,7 +11,7 @@ This is under construction. Come back soon!
     Hello! I'm a developer specialized in creating<br>extremely fast modern web projects
     <br>&nbsp;
 </h3>
-
+<!--
 <h2 align="center">FEATURED PROJECTS</h2>
 
 <p align="center">
@@ -33,7 +29,7 @@ This is under construction. Come back soon!
 <h2 align="center">WRITING AND CONTENT CREATION</h2>
 
 <p align="center">I write <a href="https://example.com">articles about web development</a> on <a href="https://example.com">my website</a>,<br>publish a <a href="https://example.com">weekly newsletter about web technologies</a><br>and post <a href="https://example.com">pretty code pictures</a> on <a href="https://example.com">my Instagram</a></p>
-
+-->
 <h2 align="center">LANGUAGES AND TOOLS</h2>
 
 <p align="center">
@@ -76,7 +72,7 @@ This is under construction. Come back soon!
 <hr>
 
 <p align="center">
-  <a href="https://example.com" title="Personal website of Federico Leiva, Developer">
+  <a href="#" title="Personal website of Federico Leiva, Developer">
   <img display="inline-block" height=40 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva.svg?sanitize=true">
   </a>
 </p>
