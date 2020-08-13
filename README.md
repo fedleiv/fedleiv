@@ -48,7 +48,7 @@
   <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/node.svg?sanitize=true">
   &nbsp;
   <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/eleventy.svg?sanitize=true">
-  &nbsp;
+  <br>
   <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/dart.svg?sanitize=true">
   &nbsp;
   <img height=24 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/flutter.svg?sanitize=true">
