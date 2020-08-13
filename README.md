@@ -74,5 +74,3 @@
   <img display="inline-block" height=40 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva.svg?sanitize=true">
   </a>
 </p>
-
--->
