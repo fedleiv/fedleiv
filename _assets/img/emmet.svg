@@ -1,7 +1,15 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200">
-  <title>emmet</title>
-  <g id="Logo">
-    <path id="Tip" d="M1074,504,969,399l54-222L798,228,696,126,1200,0Z" transform="translate(0 0)" style="fill: #c1dea1"/>
-    <path id="Base" d="M900,1200,0,300,504,174,606,276,246,366,450,570l237-57L627,747,831,951l90-360,105,105Z" transform="translate(0 0)" style="fill: #7ec242"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C1DEA1;}
+	.st1{fill:#7EC242;}
+</style>
+<title>emmet</title>
+<g id="Logo">
+	<path id="Tip" class="st0" d="M1074,504L969,399l54-222l-225,51L696,126L1200,0L1074,504z"/>
+	<path id="Base" class="st1" d="M900,1200L0,300l504-126l102,102l-360,90l204,204l237-57l-60,234l204,204l90-360l105,105L900,1200z"
+		/>
+</g>
 </svg>

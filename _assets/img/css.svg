@@ -1,9 +1,19 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1058.09 1200">
-  <title>css</title>
-  <path d="M167.24,1080,71,0h1058.1l-96.39,1079.87L599.36,1200Z" transform="translate(-70.95 0)" style="fill: #1673b6"/>
-  <path d="M600,1108.18l350.13-97.07L1032.52,88.3H600Z" transform="translate(-70.95 0)" style="fill: #34a9db"/>
-  <path d="M600,479.6H775.29L787.4,344H600V211.49H932.17L929,247l-32.56,365H600Z" transform="translate(-70.95 0)" style="fill: #fff"/>
-  <path d="M600.79,823.61l-.58.18L452.69,784l-9.43-105.65H310.31l18.55,208,271.33,75.3.6-.17Z" transform="translate(-70.95 0)" style="fill: #ebebeb"/>
-  <path d="M764,606.46l-16,177.39L600.34,823.73V961.55l271.55-75.26,2-22.38,23-257.45Z" transform="translate(-70.95 0)" style="fill: #fff"/>
-  <path d="M600.46,211.49V344h-320l-2.65-29.77-6-67.15-3.17-35.55ZM600,479.62V612.08H454.35l-2.65-29.76-6.05-67.16-3.16-35.54Z" transform="translate(-70.95 0)" style="fill: #ebebeb"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1673B6;}
+	.st1{fill:#34A9DB;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#EBEBEB;}
+</style>
+<title>css</title>
+<path class="st0" d="M167.2,1080L71,0h1058.1l-96.4,1079.9L599.3,1200L167.2,1080z"/>
+<path class="st1" d="M600,1108.2l350.1-97.1l82.4-922.8H600V1108.2z"/>
+<path class="st2" d="M600,479.6h175.3L787.4,344H600V211.5h332.2L929,247l-32.6,365H600V479.6z"/>
+<path class="st3" d="M600.7,823.6l-0.6,0.2L452.6,784l-9.4-105.7h-133l18.5,208l271.3,75.3l0.6-0.2L600.7,823.6z"/>
+<path class="st2" d="M764,606.5l-16,177.4l-147.7,39.9v137.8l271.5-75.3l2-22.4l23-257.5L764,606.5z"/>
+<path class="st3" d="M600.4,211.5V344h-320l-2.6-29.8l-6-67.1l-3.2-35.6L600.4,211.5z M600,479.6v132.5H454.3l-2.6-29.8l-6-67.2
+	l-3.2-35.5L600,479.6z"/>
 </svg>

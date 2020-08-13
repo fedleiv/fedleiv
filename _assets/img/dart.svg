@@ -1,8 +1,16 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200">
-  <title>dart</title>
-  <path d="M244.73,955.27,39.44,750C15.09,725,0,689.72,0,655.23c0-16,9-40.94,15.79-55.23l189.5-394.71Z" style="fill: #00589c"/>
-  <path d="M947.42,244.73,742.13,39.44C724.22,21.44,686.9,0,655.32,0c-27.18,0-53.82,5.47-71,15.79L205.38,205.29Z" style="fill: #56c0ee"/>
-  <polygon points="489.46 1200 986.86 1200 986.86 986.86 615.79 868.37 276.31 986.86 489.46 1200" style="fill: #56c0ee"/>
-  <path d="M205.29,844.73c0,63.34,7.94,78.87,39.44,110.54l31.58,31.58H986.85L639.52,592.15,205.29,205.29Z" style="fill: #44b3e7"/>
-  <path d="M836.88,205.21H205.29L986.85,986.77H1200V497.31L947.33,244.64C911.87,209.09,880.37,205.21,836.88,205.21Z" style="fill: #00589c"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00589C;}
+	.st1{fill:#56C0EE;}
+	.st2{fill:#44B3E7;}
+</style>
+<title>dart</title>
+<path class="st0" d="M244.7,955.3L39.4,750C15.1,725,0,689.7,0,655.2c0-16,9-40.9,15.8-55.2l189.5-394.7L244.7,955.3z"/>
+<path class="st1" d="M947.4,244.7L742.1,39.4C724.2,21.4,686.9,0,655.3,0c-27.2,0-53.8,5.5-71,15.8L205.4,205.3L947.4,244.7z"/>
+<polygon class="st1" points="489.5,1200 986.9,1200 986.9,986.9 615.8,868.4 276.3,986.9 "/>
+<path class="st2" d="M205.3,844.7c0,63.3,7.9,78.9,39.4,110.5l31.6,31.6h710.5L639.5,592.2L205.3,205.3V844.7z"/>
+<path class="st0" d="M836.9,205.2H205.3l781.6,781.6H1200V497.3L947.3,244.6C911.9,209.1,880.4,205.2,836.9,205.2z"/>
 </svg>
