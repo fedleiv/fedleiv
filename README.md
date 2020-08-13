@@ -69,8 +69,6 @@
 <p align="center">For web development or optimization inquiries<br>send me an email to <a href="mailto:fedleiv@gmail.com?subject=[GitHub Contact]">fedleiv@gmail.com</a>
 </p>
 
-<hr>
-
 <p align="center">
   <a href="#" title="Personal website of Federico Leiva, Developer">
   <img display="inline-block" height=40 src="https://raw.githubusercontent.com/fedleiv/fedleiv/master/_assets/img/logo-federicoleiva.svg?sanitize=true">
